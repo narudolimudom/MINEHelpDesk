@@ -1,6 +1,7 @@
 # MINEHelpDesk
 
 ## Project setup
+### use npm install in /client and /server
 ```
 npm install
 ```
